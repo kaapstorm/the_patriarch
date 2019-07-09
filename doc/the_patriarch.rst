@@ -5,8 +5,8 @@ The Patriarch
 God Of War
 ----------
 
-    I form the light and create darkness,
-    I make peace and create calamity;
+    | I form the light and create darkness,
+    | I make peace and create calamity;
     I, the LORD, do all these things.
 
     -- Isaiah 45:7
